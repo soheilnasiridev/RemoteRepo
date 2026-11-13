@@ -6,3 +6,4 @@ Console.WriteLine("My hobbies is programing and shoter games like delta force");
 Console.WriteLine("My phone number is: 09012916838");
 Console.WriteLine("My job is .net backend developer");
 Console.WriteLine("My national Id is: 1960625314");
+Console.WriteLine("Favorite foods: kebab, pitza, burger");
